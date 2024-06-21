@@ -35,3 +35,10 @@ IoT 개발자과정 IoT오픈하드웨어 플랫폼활용
     - 풀다운 - gnd에 저항연결
 - 풀다운 활용하여 스위치 제작
 - 디지털 피아노 제작
+
+## 2일차
+- sudo git clone https://github.com/WiringPi/WiringPi -> cd WiringPi
+- sudo ./build -> gpio -v
+- gpio readall 좀더 자세하게 라즈베리파이 상황을 알 수 있음
+- 적외선 센서 사용
+- 초음파 센서 사용
