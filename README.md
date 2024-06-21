@@ -43,4 +43,4 @@ IoT 개발자과정 IoT오픈하드웨어 플랫폼활용
 - 적외선 센서 사용
 - 초음파 센서 사용
 
-[!가상환경만드는법](https://raw.githubusercontent.com/been2525/basic-raspi-2024/main/image/%EA%B0%80%EC%83%81%ED%99%98%EA%B2%BD%EB%A7%8C%EB%93%9C%EB%8A%94%EB%B2%95.png)
+![가상환경만드는법](https://raw.githubusercontent.com/been2525/basic-raspi-2024/main/image/%EA%B0%80%EC%83%81%ED%99%98%EA%B2%BD%EB%A7%8C%EB%93%9C%EB%8A%94%EB%B2%95.png)
