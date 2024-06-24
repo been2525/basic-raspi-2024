@@ -44,3 +44,16 @@ IoT 개발자과정 IoT오픈하드웨어 플랫폼활용
 - 초음파 센서 사용
 
 ![가상환경만드는법](https://raw.githubusercontent.com/been2525/basic-raspi-2024/main/image/%EA%B0%80%EC%83%81%ED%99%98%EA%B2%BD%EB%A7%8C%EB%93%9C%EB%8A%94%EB%B2%95.png)
+
+## 3일차
+- 릴레이 모듈
+
+- 모터
+
+- flask를 사용하여 웹브라우저 만들기
+    - 실행하기 위해서 pip install flask 후에 실행
+
+- source ./env/bin/activate
+- python -m venv --system-site-packages env
+- debug=True 하면 수정한 내용이 바로 반영됨
+- http://192.168.5.3:9090/?%EC%9D%B4%EB%A6%84=%ED%99%8D%EA%B8%B8%EB%8F%99&%EC%A3%BC%EC%86%8C=%EC%84%9C%EC%9A%B8 -> 0.0.0.0/?이름=홍길동&주소=서울
