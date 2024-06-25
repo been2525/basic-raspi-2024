@@ -57,3 +57,8 @@ IoT 개발자과정 IoT오픈하드웨어 플랫폼활용
 - python -m venv --system-site-packages env
 - debug=True 하면 수정한 내용이 바로 반영됨
 - http://192.168.5.3:9090/?%EC%9D%B4%EB%A6%84=%ED%99%8D%EA%B8%B8%EB%8F%99&%EC%A3%BC%EC%86%8C=%EC%84%9C%EC%9A%B8 -> 0.0.0.0/?이름=홍길동&주소=서울
+
+## 4일차
+- html을 이용하여 led on/off(p.168)
+- 파이썬 코드를 이요6ㅇ하여 사진을 찍고 저장하는 코드(p.132)
+- 스위치를 이용하여서 사진촬영하기
